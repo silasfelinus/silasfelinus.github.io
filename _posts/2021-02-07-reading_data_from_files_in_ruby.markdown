@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Reading Data from Files in Ruby"
-date:       2021-02-08 04:26:51 +0000
+title:      "A Solution in Search of a Problem"
+date:       2021-02-07 23:26:52 -0500
 permalink:  reading_data_from_files_in_ruby
 ---
 
