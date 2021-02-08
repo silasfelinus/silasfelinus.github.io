@@ -33,4 +33,4 @@ I will try to ask questions.
 
 I will try to ask for help.
 
-I am a student, and here I am again, for the first time. 
+I am a student, and I am here again, for the first time. 
