@@ -9,7 +9,7 @@ As a child, I loved learning. But even  more importantly. I loved showing off ho
 
 As you might expect, I was an annoying child, completely inconsiderate of my classmates, oblivious to variations in skillsets, and entirely validated by a competitive drive to be seen as the smartest person in the room. It didn't take me long to realize that the strongest competition came from the teachers, and the high of taking down a sp-called "educator" became the new rush. I'd listen attentively, waiting to pounce with whatever factoid I'd memorized. 
 
-### > "Actually, people use all of our brains at different times, not just 10%!"
+### > "Actually, humans use all of their brain, not just 10%!"
 
 
 
