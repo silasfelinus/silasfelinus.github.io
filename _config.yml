@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: silasfelinus@gmail.com
 copyright_name: Silas Michael Knight
 description: > # this means to ignore newlines until "baseurl:"
-  Meditations on code from a lifetime student
+  Meditations on code from a lifetime student and former clown
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  silasfelinus
