@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**Chapter 58 - The First Step**"
+title:      "Chapter 58 - The First Step"
 date:       2021-02-07 19:49:24 -0500
 permalink:  chapter_58_-_the_first_step
 ---
@@ -9,14 +9,15 @@ As a child, I loved learning. But even  more importantly. I loved showing off ho
 
 As you might expect, I was an annoying child, completely inconsiderate of my classmates, oblivious to variations in skillsets, and entirely validated by a competitive drive to be seen as the smartest person in the room. It didn't take me long to realize that the strongest competition came from the teachers themselves, and the high of taking down a teacher became the new rush. I'd listen attentively, waiting to pounce with whatever factoid I'd memorized. 
 
-> "Actually, people use all of our brains at different times, not just 10%!"
-> 
+### > "Actually, people use all of our brains at different times, not just 10%!"
 
-> "Actually, we have over 21 different senses, including balance, time, and orientation!"
->
 
-> "ACTUALLY...!"
-> 
+
+### > "Actually, we have over 21 different senses, including balance, time, and orientation!"
+
+
+### > "ACTUALLY...!"
+
 
 Actually, I probably  didn't *learn* a lot in those moments, I was too focused on the attack. That's the problem with being a know-it-all: I never left room to learn anything. I stayed in school a long time, flitting from topic to topic, gaining just enough information to impress a layperson, and moving on before I had to actually stretch myself. I thought I wanted a classical education, but I really just wanted it to look like I had a classical education (as evidenced by my extensive reading of the Time Life Classics Illustrated comic books).
 
