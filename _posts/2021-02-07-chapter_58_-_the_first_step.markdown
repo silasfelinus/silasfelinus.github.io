@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**Chapter 58 - The First Step**"
-date:       2021-02-08 00:49:23 +0000
+date:       2021-02-07 19:49:24 -0500
 permalink:  chapter_58_-_the_first_step
 ---
 
@@ -18,7 +18,7 @@ As you might expect, I was an annoying child, completely inconsiderate of my cla
 > "ACTUALLY...!"
 > 
 
-Actually, I probably  didn't *learn* a lot in those moments, I was too focused on the attack. That's the problem with being a know-it-all: I never left any room to learn anything. I stayed in school a long time, flittering from topic to topic, gaining just enough information to impress a layperson, and moving on before I had to actually stretch myself. I thought I wanted a classical education, but I really just wanted it to look like I had a classical education (as evidenced by my extensive reading of the Time Life Classics Illustrated comic books).
+Actually, I probably  didn't *learn* a lot in those moments, I was too focused on the attack. That's the problem with being a know-it-all: I never left room to learn anything. I stayed in school a long time, flitting from topic to topic, gaining just enough information to impress a layperson, and moving on before I had to actually stretch myself. I thought I wanted a classical education, but I really just wanted it to look like I had a classical education (as evidenced by my extensive reading of the Time Life Classics Illustrated comic books).
 
 This is, ultimately, a coding blog, so I should mention that I did a decent amount of coding during these stretches. But I could never focus on a single language, or learn any of the more technical (IE, boring) skills that would allow me to turn my hobby into a career. I dabbled in robotics, VR, statistical modeling, game design...but I had no fundamentals, and I lacked the humility to admit that I might need to actually work if I wanted to learn something.
 
